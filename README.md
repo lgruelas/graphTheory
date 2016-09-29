@@ -1,0 +1,2 @@
+# graphTheory
+RNG graphs exploration
